@@ -10,3 +10,6 @@ contract NubiaToken is ERC20 {
         _mint(msg.sender, 1000000 * 10 ** decimals());
     }
 }
+
+
+// https://sepolia.arbiscan.io/tx/0x9f6602b859b59effdf651696a3b57a71cc912a3e6e4d49e1f4ab2301210c109b
